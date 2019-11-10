@@ -1,0 +1,30 @@
+{
+"products":[
+{
+	"product_id": "102291",
+	"product_name": "Blue Tshirt",
+	"product_description": "This is blue T-shirt",
+	"product_price": "300",
+	"product_category": "Topwear",
+	"product_sub_category": "Tshirt",
+	"product_discount": "15%",
+	"product_discounted_price": "255",
+	"product_type": "Half Sleeve",
+	"product_color": [
+		"Black",
+		"Red",
+		"Yellow"
+	],
+	"product_size": [
+		"S",
+		"M",
+		"L"
+	],
+	"product_pictures": [
+		"",
+		"",
+		""
+	]
+}
+]
+}
